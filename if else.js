@@ -29,6 +29,21 @@ console.log(student["age"]);
 student["cgpa"] = student["cgpa"] + 1.11;
 
 
-student["isPass"] = student["isPass"] + fail;
-console.log(isPass[isPass]);
+
+const product = {
+    title : "Ball pen",
+    rating : 4,
+    offer : 5,
+    price : 25,
+};
+console.log(product);
+
+const profile = {
+    name : "ABDULLAH SYCO",
+    follower : 3400,
+    isFollow : true ,
+    bio : "i like weigthlifting",
+}
+console.log(profile);
+
 
